@@ -1,0 +1,40 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: black;
+	font-weight: 300;
+    background-color: #BCBBBB;
+}
+.text-muted{
+	color: #BCBBBB;
+}
+.text-thin{
+	font-weight:100;
+}
+.title-super{
+	font-size:40px;
+}
+#map-canvas {
+      /*width: 70%;*/
+      height: 700px;
+}
+#search-container{
+	max-height: 700px;
+	background-color: #E8E8E8;
+}
+
+#search-nav{
+	max-height: 650px;
+	overflow-y: auto;
+}
+#input{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#lists {
+    margin-top: 5%;
+	 
+} 
+#rate{
+    color: red;
+    font-size: 25px;
+}
